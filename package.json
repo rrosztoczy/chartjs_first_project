@@ -1,0 +1,16 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^2.8.0",
+    "d3": "^5.9.2",
+    "react": "^16.8.6"
+  }
+}
