@@ -1,0 +1,19 @@
+﻿Time,StressLevel,Mood,Activity
+7:00:00 AM,3,6,Wakeup
+8:00:00 AM,2,7,"Daily prep, walk"
+9:00:00 AM,1,10,Dev - Project
+10:00:00 AM,1,10,Dev - Project
+11:00:00 AM,2,10,Dev - Project
+12:00:00 PM,3,10,"Lunch, Dev - Project"
+1:00:00 PM,4,10,Dev - Project
+2:00:00 PM,6,10,Dev - Project
+3:00:00 PM,4,8,Meditate
+4:00:00 PM,4,6,Dev - Project
+5:00:00 PM,8,5,Prep - Presentation
+6:00:00 PM,10,7,Presentation
+7:00:00 PM,2,9,Glass of wine
+,,,
+,,,
+,,,
+,,,
+,,,
